@@ -50,4 +50,7 @@ MODEL PIPELINE
   - MLE_analysis.py
     - calculates MLE for phys filter, savgol, and raw data
     - runs calc over multiple years to check convergence/stability
+   
+  - phi_forecast.py
+    - uses predicted displacement to obtain autonomous prediction for phi and event timing
     
